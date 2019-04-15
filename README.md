@@ -14,3 +14,6 @@
 [iOS开发之--使用storyboard进行跳转](https://www.cnblogs.com/hero11223/p/6399405.html)
 
 [一篇较为详细的 Storyboard使用方法 总结](https://blog.csdn.net/liuyinghui523/article/details/62036465)
+
+[iOS11 tableViewcell storyboard 自适应高度](https://www.jianshu.com/p/f44ed741d9bb)
+
